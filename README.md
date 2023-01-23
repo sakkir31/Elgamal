@@ -1,4 +1,7 @@
 # Elgamal
+
+Makalah/Jurnal Dan Hasil print scrren Program Ada di file pdf
+
 Enkripsi Dan Dekripsi Menggunkan Algoritma ELgamal
 -------------------
 Tugas Kelompok 
