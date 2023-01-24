@@ -1,6 +1,6 @@
 # Elgamal
 
-Limk Youtube : https://youtu.be/CIzmcgnZ0sE
+Link Youtube : https://youtu.be/CIzmcgnZ0sE
 Enkripsi Dan Dekripsi Menggunkan Algoritma ELgamal
 -------------------------
 Makalah/Jurnal Dan Hasil print scrren Program Ada di file pdf
